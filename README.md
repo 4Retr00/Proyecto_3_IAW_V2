@@ -13,39 +13,39 @@ public/
 src/
  ├── components/
  │    ├── Home/
- │    │     ├── Home.jsx
+ │    │     ├── home.jsx
  │    │     └── home.css
  │    │
  │    ├── Guias/
- │    │     ├── Guia.jsx
- │    │     └── guias.css
+ │    │     ├── guia.jsx
+ │    │     └── guia.css
  │    │
  │    ├── GuiasDetalles/
- │    │     ├── GuiaDetail.jsx
+ │    │     ├── guiasdetalles.jsx
  │    │     └── guiasdetalles.css
  │    │
  │    ├── Recetas/
- │    │     ├── Recetas.jsx
+ │    │     ├── recetas.jsx
  │    │     └── recetas.css
  │    │
  │    ├── RecetasDetalles/
- │    │     ├── RecetaDetail.jsx
+ │    │     ├── recetadetalles.jsx
  │    │     └── recetasdetalles.css
  │    │
  │    ├── Proyectos/
- │    │     ├── Proyectos.jsx
+ │    │     ├── proyectos.jsx
  │    │     └── proyectos.css
  │    │
  │    ├── ProyectosDetalles/
- │    │     ├── ProyectosDetail.jsx
+ │    │     ├── proyectosdetalles.jsx
  │    │     └── proyectosdetalles.css
  │    │
  │    └── quiz/
- │          ├── Quiz.jsx
+ │          ├── quiz.jsx
  │          └── quiz.css
  │
  ├── data/
- │    ├── guide.json
+ │    ├── guias.json
  │    ├── recetas.json
  │    ├── proyectos.json
  │    └── quiz.json
